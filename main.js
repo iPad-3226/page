@@ -1,1 +1,1 @@
-let win = window.open('./')
+{let win = window.open('./',Math.random()+'SONSI')}
