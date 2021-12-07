@@ -1,3 +1,1 @@
-function textchange(x){
-    document.getElementById("text1").innerHTML=x;
-}
+let win = window.open('./')
